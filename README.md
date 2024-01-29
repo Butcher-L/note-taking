@@ -18,4 +18,19 @@ Make sure you have the following software installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/notes-api.git
+   git clone https://github.com/Butcher-L/note-taking.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd notes-api
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+
+4. Start API:
+
+   ```bash
+   npm run start
