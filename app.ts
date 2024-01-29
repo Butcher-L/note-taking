@@ -1,4 +1,3 @@
-// app.ts
 import express from 'express';
 import bodyParser from 'body-parser';
 import notesRouter from './controllers/notesController';
